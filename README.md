@@ -12,7 +12,7 @@ editar sus propias publicaciones y visualizar la gestión registrada en la comun
 * Comentarios en las publicaciones de otros
 * Edición de publicaciones propias
 * Visualización de la gestión registrada en la comunidad
-* Publicación con más comentarios destacada
+* Publicación con más comentarios destacada ( Ranking)
 
 
 ## Tecnologías utilizadas
@@ -20,13 +20,6 @@ editar sus propias publicaciones y visualizar la gestión registrada en la comun
 
 * Frontend: Vue.js
 * Backend: Express.js
-* Base de datos: [Nombre de la base de datos]
+* Base de datos: MySQL
 
-## Uso
------
 
-* Crea una cuenta para acceder a las funcionalidades del blog
-* Crea una publicación con foto y descripción
-* Comenta en las publicaciones de otros
-* Edita tus propias publicaciones
-* Visualiza la gestión registrada en la comunidad
